@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(39, 46, 53);
+}
+
+#container {
+  background-color: slategray;
+  border: 5px solid #f5e4c3;
+  height: 275px;
+  width: 750px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btn {
+  height: 64px;
+  width: 64px;
+}
+
+#output {
+  margin: 25px auto;
+  font-size: 26px;
+  color: white;
+}
